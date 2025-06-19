@@ -64,20 +64,21 @@ Rest Riser is a full-stack web application designed to provide a seamless hotel 
 
 ## Project Structure
 
-rest-riser/
-├── about.php # About page with hotel information
-├── contactUs.php # Contact page with form and map
-├── dashboard.php # User and admin dashboards
-├── Facilities.php # Facilities page showcasing amenities
-├── index.php # Homepage with room previews and booking checker
-├── Ocassion.php # Placeholder for occasion booking
-├── Rooms.php # Rooms page with filtering and booking options
-├── testoo.php # Referenced in dashboard (possibly a placeholder or redirect)
-├── inc/
-│ ├── header.php # Common header for navigation
-│ ├── footer.php # Common footer
-│ ├── link.php # Common CSS/JS includes
-└── README.md # Project documentation
+- rest-riser/
+  - about.php
+  - contactUs.php
+  - dashboard.php
+  - Facilities.php
+  - index.php
+  - Ocassion.php
+  - Rooms.php
+  - testoo.php
+  - inc/
+    - header.php
+    - footer.php
+    - link.php
+  - README.md
+
 
 
 ---
@@ -208,21 +209,6 @@ Contributions are welcome! To contribute:
 5. Open a pull request.
 
 Please ensure your code follows the project's coding standards and includes appropriate documentation.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions or support, please contact:
-
-- **Email:** Reservation@restriser.com
-- **GitHub Issues:** [Submit an issue](../../issues)
 
 ---
 
